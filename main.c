@@ -1,16 +1,15 @@
 /******************************************************************************
 * File Name:   main.c
 *
-* Description: This is the source code for the RutDevKit-USB_CDC_Test
+* Description: This is the source code for the RAB3 Radar Data Logger
 *              Application for ModusToolbox.
 *
 * Related Document: See README.md
 *
 *
-*  Created on: 2021-06-01
+*  Created on: 2025-04-01
 *  Company: Rutronik Elektronische Bauelemente GmbH
-*  Address: Jonavos g. 30, Kaunas 44262, Lithuania
-*  Author: GDR
+*  Author: ROJ030
 *
 *******************************************************************************
 * (c) 2019-2021, Cypress Semiconductor Corporation. All rights reserved.
